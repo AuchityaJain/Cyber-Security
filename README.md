@@ -74,4 +74,4 @@ Follow these steps to get `SiteGuard Scout` up and running on your local machine
     Enter the full website address (e.g., [https://www.google.com](https://www.google.com)): [https://www.example.com](https://www.example.com)
     ```
 
-## 📈 Example Output (using your Kaggle example)
+
